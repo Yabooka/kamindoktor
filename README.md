@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+NextJS 13 and Tailwind CSS redesign for der-kamindoktor.de
 
 ## Getting Started
 

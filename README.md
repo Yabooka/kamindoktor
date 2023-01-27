@@ -1,4 +1,4 @@
-NextJS 13 and Tailwind CSS redesign for der-kamindoktor.de
+NextJS 13(https://nextjs.org) and Tailwind CSS(https://tailwindcss.com) redesign for http://der-kamindoktor.de
 
 ## Getting Started
 
